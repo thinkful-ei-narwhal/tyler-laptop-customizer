@@ -1,6 +1,4 @@
 import React, { Component } from "react";
-import slugify from "slugify";
-import Options from "./Options";
 
 class OptionsIndividual extends Component {
   render() {
